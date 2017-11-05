@@ -18,25 +18,24 @@ Accomplished architect and technology skilled in all areas of the software devel
   * .NET 4.5, C#, ASP.NET, WCF, IIS, SQL Server, Silverlight, OData, NUnit, SpecFlow  
 
 ###### Systems Architect - Chicago, IL
-* **Next Gen Desktop:**
-  * foo
-* **Order Orchestration and APIs:**
-  * foo
-* **Product Catalog and Order Management:**
-  * foo
-* **Business Services Platform:**
-  * foo
+* **Next Gen Desktop:** Architect and Lead developer for CSG's Customer Service Representative (CSR) desktop application and UI framework standardization effort.  Successfully rolled out Silverlight as a UI technology with supporting frameworks and patterns to 6 different applications within CSG.
+  * .NET 4.0, C#, Silverlight, WPF
+* **Order Orchestration and APIs:** Architect and developer for Order Presentation Orchestration Services - an API exposure layer for building Order Management clients.
+* .NET 3.0-4.0, C#, ASP.NET, WCF, IIS, NUnit, TDD, VS Load Testing Tools
+* **Product Catalog and Order Management:**  Architect and developer of our standalone product catalog and order management offerings.  Focus on technical debt payback, up-skilling legacy system developers, and decoupling offering from vertical specific backends.
+  * .NET 3.0-4.0, C#, ASP.NET, WCF, IIS, NUnit, TDD, VS Load Testing Tools
+* **Business Services Platform:**Architect and lead developer for BS Platform - a project attempting to take CSG's residential oriented offering to business clients.  Large scale development of Customer, Account, Catalog, Order Management, Trouble Ticket Management and Provisioning models.
+  * .NET 2.0, C#, ASP.NET, ASMX, WCF, IIS, NUnit, TDD
 
 #### Avanade (2003 - 2006)
 ###### Principal Solutions Developer - Chicago, IL
-* **Miller Brewing Company (Milwaukee, WI):**
-  * .NET 2.0, C#, ASP.NET, SQL Server
-* **Avanade, Inc. (Seattle, WA): ACA.NET and ACA Lifecycle:**
+* **Miller Brewing Company (Milwaukee, WI):** Lead developer and architect for internal intranet web application rolled out by Miller corporate for all distributors to plan and manage their advertising budgets.  Oversaw a team of 4 as well as contributed code to the deliverables.  First exposure to agile methods - specially scrum.
+  * .NET 2.0, C#, ASMX, ASP.NET, SQL Server, NUnit, TDD
+* **Avanade, Inc. (Seattle, WA): ACA.NET and ACA Lifecycle:** Developer role on a senior team building reusable technical assets for project teams.  Contributed to ACA.NET which would eventually be transferred to Microsoft and rebranded as Enterprise library.  Also contributed to cutting edge development of ACA Lifecycle which was built on top of Microsoft's newly released TFS product and their Project Server product.  Served primary in a development and QA tester capacities.
   * .NET 2.0, C#, SQL Server
-  * Microsoft Team Foundation Server 1.0 (TFS), Microsoft Project Server
-* **Harley Davidson Dealer Systems (Cleveland, OH):**
-  * .NET 1.0, C#, ASP.NET, CruiseControl.NET, Advanced Multi-Thread MDI style Windows Forms
-* **Process Claims (Manhattan Beach, CA):**
+* **Harley Davidson Dealer Systems (Cleveland, OH):**  Offered technical expertise to struggling project for solving complex multi-threading and garbage collection issues with Win32/Windows Forms application.  Expanded role into establishing cutting edge continuous integration (CI) processes across multi-shore teams.  
+  * .NET 1.0, C#, ASMX, ASP.NET, CruiseControl.NET, Advanced Multi-Thread MDI style Windows Forms
+* **Process Claims (Manhattan Beach, CA):** Developer for intranet site that was part of the B2B integration with AllState for managing and streamlining insurance claim processing.  Served as technical liaison/ambassador for AllState, Microsoft Consulting Services, and Avanade for their work with Process Claims.  
   * .NET 1.0, C#, ASP.NET
 
 #### IBM Global Services (1999 - 2003)
