@@ -4,12 +4,19 @@ http://kellybrownsberger.com | resume@kellybrownsberger.com
 Accomplished architect and technologist skilled in all areas of the software development lifecycle.  Proven technical leader and strategist capable of planning and executing on long term transformations as well as short term tactical initiatives.  Passionate about agile and lean methods.  Current focus on enterprise level DevOps transformation by applying application development principles to operations and delivery.
 
 ### Experience
-#### CSG International (2006 - Present)
+
+#### Autobooks (Sept 2018 - Present)
+##### Development Team Lead
+Development lead for a financial technology startup.  Responsibilities varied for individual contribution with
+feature development, to production support and operations, as well as architecture and management.  The platform
+was 100% cloud native targeting .NET Framework, .NET Core, SQL Server (Azure Managed Instances), Azure DevOps, Azure API Management, Azure Service Fabric, Azure Functions, and Azure Web Apps.
+
+#### CSG International (2006 - 2018)
 ###### Principal Systems Architect - Remote Employee
 * **Corporate Delivery Pipeline Platform**
   * Contributing to the design and development of CSG's next-gen delivery pipeline capable of managing software artifacts across our entire application development needs as well as Infrastructure as Code (IaC) artifacts.  Platform is built as services using C# and .NET Core based REST services running on Linux.
 * **Enterprise Architecture & DevOps Transformation:**  Lead architect for automation standards driving a corporate wide multi-platform DevOps transformation.  Oversees a group of 6 architects, but still contributes significantly to frameworks and deliverables.  Pairing and mentoring with application teams to guide and transfer knowledge
-  * Chef Configuration Management, Chef Delivery/Automate, AWS EC2 and S3, AWS AMI buidl automation with Packer, Terraform, RunDeck, Jenkins, Artifactory, Ruby, RHEL 7 Linux, AWS Linux 1/2 and Windows Server 2012R2/2016.
+  * Chef Configuration Management, Chef Delivery/Automate, AWS EC2 and S3, AWS AMI build automation with Packer, Terraform, RunDeck, Jenkins, Artifactory, Ruby, RHEL 7 Linux, AWS Linux 1/2 and Windows Server 2012R2/2016.
 * **SCM PaaS:**  Architect and key contributor for shared corporate level shared platform as a service (PaaS) for Continuous Integration (CI) and delivery pipeline.  The service drove standards and consistency of technical standards, delivery execution and methods, and was a key enabler of corporate agility.
   * Jenkins CI Server, .NET 3.0 - 4.7, WCF, IIS, ASP MVC, ASP WebAPI, NancyFx, NHibernate, REST APIs, Subversion, Git (BitBucket), JFrog Artifactory, Chocolatey, WIX/MSI, NUnit, SpecFlow, Java, JUnit.
 * **Next Gen Billing:**
@@ -53,9 +60,6 @@ Accomplished architect and technologist skilled in all areas of the software dev
   * VB6, ActiveX DLLs, MTS/COM+, Windows Server 2000, Microsoft COM Transaction Integrator (COMTI)
 * **ePMO:** Helped develop internal IBM asset used by projects teams in the field for manage large project management offices on client sites (i.e. SharePoint before Microsoft created SharePoint).
   * VB6, ActiveX DLLs, ASP, VBScript, Visual InterDev, MTS/COM+, Windows Server 2000, IIS 4, SQL Server 7
-
-### Community
-* author of [nplant](http://nplant.org) - C# library for writing PlantUML diagrams in code
 
 ### Education and Certifications
 * Internship (summer 1996) - Hallmark Cards (Kansas City, MO):  COBOL Developer
