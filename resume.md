@@ -1,11 +1,29 @@
 ## Kelly Brownsberger
-http://kellybrownsberger.com | resume@kellybrownsberger.com
+[about me](http://kellybrownsberger.com/about) | [linkedin](https://www.linkedin.com/in/kellybrownsberger) | resume@kellybrownsberger.com
+
 ### Summary
-Accomplished architect and technologist skilled in all areas of the software development lifecycle.  Proven technical leader and strategist capable of planning and executing on long term transformations as well as short term tactical initiatives.  Passionate about agile and lean methods.  Current focus on enterprise level DevOps transformation by applying application development principles to operations and delivery.
+Accomplished architect and technologist skilled in all areas of the software development lifecycle.  Career-long individual contributor
+that graduates into leadership positions.  Passionate about agile, lean, and DevOps philosophies and understands how to use technology to do it right.  Skilled in standing on the shoulder of cloud giants and building robust, scalable systems that delight users.  
 
 ### Experience
+#### PeopleScout (TrueBlue) (Oct 2019 - Present)
+##### Senior Systems Architect
+Acting Chief Architect for PeopleScout and technology lead for our Affinix platform.  Drives technology roadmap, and platform architecture and design for our key partner integrations and core Recruitment Process Outstanding (RPO) platform (code name Affinix).  Build and maintain our continuous integration process and automation platform used by all of PeopleScout.  Responsible for building frameworks, tools and partner integrations used by feature squads under the Affinix umbrella as well as strategic planning with business stakeholders.  
 
-#### Autobooks (Sept 2018 - Present)
+Key platform technologies:  Java, NodeJS, python, PostgreSQL, AWS RDS, AWS Serverless stack (Lambda, API Gateway, DynamoDB), AWS ECS and Fargate, AWS SQS, AWS SNS, AWS ElasticSearch and Kibana
+Key integrations:  Ascendify CRM, Springboard ATS, Workday ATS, SuccessFactors ATS, Modern Hire Digital Interview, SendGrid, Auth0
+Key delivery automation technologies:  Gitlab, Jenkins, Artifactory
+
+#### Autobooks (Sept 2018 - Oct 2019)
+##### Development Team Lead
+Development lead for a financial technology startup.  Responsibilities varied for individual contribution with
+feature development, to production support and operations, as well as architecture and management.  The platform
+was 100% cloud native targeting .NET Framework, .NET Core, SQL Server (Azure Managed Instances), Azure DevOps, Azure API Management, Azure Service Fabric, Azure Functions, and Azure Web Apps.
+
+#### Autobooks (Sept 2018 - Oct 2019)
+##### Development Team Lead
+
+#### Autobooks (Sept 2018 - Oct 2019)
 ##### Development Team Lead
 Development lead for a financial technology startup.  Responsibilities varied for individual contribution with
 feature development, to production support and operations, as well as architecture and management.  The platform
@@ -62,10 +80,11 @@ was 100% cloud native targeting .NET Framework, .NET Core, SQL Server (Azure Man
   * VB6, ActiveX DLLs, ASP, VBScript, Visual InterDev, MTS/COM+, Windows Server 2000, IIS 4, SQL Server 7
 
 ### Education and Certifications
-* Internship (summer 1996) - Hallmark Cards (Kansas City, MO):  COBOL Developer
-* Internship (summer 1997) - Cerner (Kansas City, MO): VB5 Developer
-* Internship (summer 1998) - Cerner (Kansas City, MO): VB5 and ASP Developer
-* 1999 - Bachelors of Science from Missouri State University in Object Oriented Computer Information Systems with Java
-* 2002 - Microsoft Certified Solutions Developer (MCSD) in Visual Basic 6
-* 2005 - Microsoft Certified Solutions Developer (MCSD.NET) in C#
+* 2020 - AWS Solutions Architect Associate (Aug 2020)
 * 2012 - Scaled Agile Framework (SAFe) Certified
+* 2005 - Microsoft Certified Solutions Developer (MCSD.NET) in C#
+* 2002 - Microsoft Certified Solutions Developer (MCSD) in Visual Basic 6
+* 1999 - Bachelors of Science from Missouri State University in Object Oriented Computer Information Systems with Java
+* Internship (summer 1998) - Cerner (Kansas City, MO): VB5 and ASP Developer
+* Internship (summer 1997) - Cerner (Kansas City, MO): VB5 Developer
+* Internship (summer 1996) - Hallmark Cards (Kansas City, MO):  COBOL Developer
