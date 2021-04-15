@@ -20,15 +20,6 @@ Development lead for a financial technology startup.  Responsibilities varied fo
 feature development, to production support and operations, as well as architecture and management.  The platform
 was 100% cloud native targeting .NET Framework, .NET Core, SQL Server (Azure Managed Instances), Azure DevOps, Azure API Management, Azure Service Fabric, Azure Functions, and Azure Web Apps.
 
-#### Autobooks (Sept 2018 - Oct 2019)
-##### Development Team Lead
-
-#### Autobooks (Sept 2018 - Oct 2019)
-##### Development Team Lead
-Development lead for a financial technology startup.  Responsibilities varied for individual contribution with
-feature development, to production support and operations, as well as architecture and management.  The platform
-was 100% cloud native targeting .NET Framework, .NET Core, SQL Server (Azure Managed Instances), Azure DevOps, Azure API Management, Azure Service Fabric, Azure Functions, and Azure Web Apps.
-
 #### CSG International (2006 - 2018)
 ###### Principal Systems Architect - Remote Employee
 * **Corporate Delivery Pipeline Platform**
