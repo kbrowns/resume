@@ -1,14 +1,21 @@
 ## Kelly Brownsberger
 [about me](http://kellybrownsberger.com/about) | [linkedin](https://www.linkedin.com/in/kellybrownsberger) | resume@kellybrownsberger.com
 
+![](mug-embedded.jpg)
+
 ### Summary
 Accomplished architect and technologist skilled in all areas of the software development lifecycle.  Career-long individual contributor
-that graduates into leadership positions.  Passionate about agile, lean, and DevOps philosophies and understands how to use technology to do it right.  Skilled in standing on the shoulder of cloud giants and building robust, scalable systems that delight users.  
+that graduates into leadership positions.  Passionate about agile, lean, and DevOps philosophies and understands how to use technology to do it right.  Skilled in standing on the shoulder of cloud giants and building robust, scalable systems that delight users.
 
 ### Experience
-#### PeopleScout (TrueBlue) (Oct 2019 - Present)
+
+#### CSG Systems (July 2021 - Present)
+##### Senior Principal Systems Architect
+Acting as Principal Architect and Director for CSG's Ascendon Core Billing initiative.  Charged with bootstrapping a new cloud native, multi-tenant, SaaS offering to drive Ascendon's next generation B2C billing platform.  This initiative is largely a start up within a large company calling for a skilled technologist that can zoom out and deal with roadmap planning, team and organization building, as well as zoom in a drive low level architecture, infrastructure, and design as well as cutting code to meeting aggressive goals and timelines.
+
+#### PeopleScout (TrueBlue) (Oct 2019 - July 2021)
 ##### Senior Systems Architect
-Acting Chief Architect for PeopleScout and technology lead for our Affinix platform.  Drives technology roadmap, and platform architecture and design for our key partner integrations and core Recruitment Process Outstanding (RPO) platform (code name Affinix).  Build and maintain our continuous integration process and automation platform used by all of PeopleScout.  Responsible for building frameworks, tools and partner integrations used by feature squads under the Affinix umbrella as well as strategic planning with business stakeholders.  
+Served as our Chief Architect for PeopleScout and technology lead for our Affinix platform.  Drives technology roadmap, and platform architecture and design for our key partner integrations and core Recruitment Process Outstanding (RPO) platform (code name Affinix).  Build and maintain our continuous integration process and automation platform used by all of PeopleScout.  Responsible for building frameworks, tools and partner integrations used by feature squads under the Affinix umbrella as well as strategic planning with business stakeholders.  
 
 Key platform technologies:  Java, NodeJS, python, PostgreSQL, AWS RDS, AWS Serverless stack (Lambda, API Gateway, DynamoDB), AWS ECS and Fargate, AWS SQS, AWS SNS, AWS ElasticSearch and Kibana
 Key integrations:  Ascendify CRM, Springboard ATS, Workday ATS, SuccessFactors ATS, Modern Hire Digital Interview, SendGrid, Auth0
