@@ -4,14 +4,13 @@
 ![](mug-embedded.jpg)
 
 ### Summary
-Accomplished architect and technologist skilled in all areas of the software development lifecycle.  Career-long individual contributor
-that graduates into leadership positions.  Passionate about agile, lean, and DevOps philosophies and understands how to use technology to do it right.  Skilled in standing on the shoulder of cloud giants and building robust, scalable systems that delight users.
+Accomplished architect and technologist skilled in all areas of the software development lifecycle.  Passionate about agile, lean, and DevOps philosophies and understands how to use technology to do it right.  Skilled in standing on the shoulders of industry giants and building robust, scalable systems that delight users.  Strategic thinker with the right amount of pragmatism so that technology serves the business instead of the other way around.
 
 ### Experience
 
 #### CSG Systems (July 2021 - Present)
 ##### Senior Principal Systems Architect
-Acting as Principal Architect and Director for CSG's Ascendon Core Billing initiative.  Charged with bootstrapping a new cloud native, multi-tenant, SaaS offering to drive Ascendon's next generation B2C billing platform.  This initiative is largely a start up within a large company calling for a skilled technologist that can zoom out and deal with roadmap planning, team and organization building, as well as zoom in a drive low level architecture, infrastructure, and design as well as cutting code to meeting aggressive goals and timelines.
+Acting as Principal Architect and Director for CSG's Ascendon Core Billing initiative.  Charged with bootstrapping a new cloud native, multi-tenant, SaaS offering to drive Ascendon's next generation B2C billing platform.  This initiative is largely a start up within a large company calling for a skilled technologist that can zoom out and deal with roadmap planning, team and organization building, while also zooming in a drive low level architecture, infrastructure, and design as well as cutting code to meeting aggressive goals and timelines.
 
 #### PeopleScout (TrueBlue) (Oct 2019 - July 2021)
 ##### Senior Systems Architect
